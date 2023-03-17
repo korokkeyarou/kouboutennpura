@@ -1,0 +1,162 @@
+.hlist{
+    list-style-type: none;
+    float:right;
+    color:white;
+    display:block;
+    opacity: 0.8;
+    padding-right:50px;
+    line-height:80px;
+
+  }
+.logo{
+  float:left;
+  color:white;
+  line-height:80px;
+  padding-left: 20px;
+  
+
+}
+header{
+  background-color: black;
+  height:80px;
+  padding:0px 30px;
+  width:100%;
+  z-index: 10;
+  position: fixed;
+  top: -8px;
+  left: -8px;
+  opacity: 1;
+  
+
+}
+.containner{
+  text-align: center;
+}
+.act p{
+  
+  display: inline-block;
+}
+.hlist:hover{
+  opacity: 1;
+}
+.act{
+  width:25%;
+  
+}
+.acts{
+  display: flex;
+}
+.to{
+  padding: 50px 0;
+}
+.i{
+  width: 80%;
+}
+.top{
+  padding:100px;
+}
+.se{
+  padding-top:100px ;
+}
+.to img{
+  width:30% ;
+}
+.mas{
+  width:30%;
+  
+
+}
+.thr{
+  padding-left:100px;
+  margin:100px 0;
+  
+}
+.exp{
+  margin:0;
+  position:absolute;
+  top:50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  left:50%;
+  transform: translateX(-50%)
+
+}
+.u{
+  text-align: center;
+}
+.robs{
+  width:80%;
+  margin:0 auto;
+}
+.ro{
+  
+  width:50%;
+  
+}
+.setu{
+  
+  width:50%;
+  display: inline-block;
+  text-align: center;
+  height:100%;
+
+}
+.ex{
+  padding-top: 50px;
+  
+  font-size: 20px;
+  width:100%;
+}
+.btn{
+  
+  
+  color:white;
+  background-color: brown;
+  display: inline-block;
+  margin-top: 30px;
+
+  border-radius: 20px;
+  padding:15px 10px;
+  width:30%;
+  opacity: 0.8;
+}
+.btn:hover{
+  opacity: 1;
+  
+  
+}
+.rob{
+  display: flex;
+  margin-top: 200px;
+}
+.owa{
+  text-align: center;
+
+}
+.clear{
+  clear:left;
+}
+.th{
+  display: flex;
+}
+.oya{
+  flex:auto;
+  
+  position: relative;
+}
+footer{
+  padding:200px;
+
+}
+.h6{
+  font-size: 10px;
+}
+.yu{
+  width:70%;
+}
+.pu{
+  width:92%;
+}
+.sec{
+  margin-bottom: 200px;
+}
