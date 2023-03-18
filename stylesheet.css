@@ -189,11 +189,11 @@ footer{
     }
   .hlist{
       font-size:30px;
-      text-height:150px;
+      line-height:150px;
     }
   .logo{
       font-size:30px;
-      text-height:150px;
+      line-height:150px;
     }
 }
 
