@@ -181,7 +181,7 @@ footer{
   .mas{
       width:40%;
   } 
-  acts{
+  .acts{
       flex-wrap:wrap;
     }
 }
