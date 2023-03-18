@@ -184,5 +184,16 @@ footer{
   .acts{
       flex-wrap:wrap;
     }
+  .header{
+      height:150px;
+    }
+  .hlist{
+      font-size:30px;
+      text-height:150px;
+    }
+  .logo{
+      font-size:30px;
+      text-height:150px;
+    }
 }
 
