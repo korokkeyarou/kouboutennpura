@@ -160,3 +160,12 @@ footer{
 .sec{
   margin-bottom: 200px;
 }
+@media(max-width:1000px ){
+  .to img{
+    width: 80%;
+    display: inline-block;
+  }
+  .top{
+    padding:100px 0;
+  }
+}
