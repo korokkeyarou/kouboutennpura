@@ -17,8 +17,9 @@
 
 }
 .douga{
-      display:block;
-    }
+  display: inline-block;
+
+}
 header{
   background-color: black;
   height:80px;
