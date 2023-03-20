@@ -13,11 +13,12 @@
   color:white;
   line-height:80px;
   padding-left: 20px;
-  .douga{
-      display:block;
-    }
+  
 
 }
+.douga{
+      display:block;
+    }
 header{
   background-color: black;
   height:80px;
